@@ -1,0 +1,16 @@
+{
+  "buttons": [
+    {
+      "name": "key1",
+      "gpo": "GP16"
+    },
+    {
+      "name": "key2",
+      "gpo": "GP15"
+    },
+    {
+      "name": "key3",
+      "gpo": "GP14"
+    }
+  ]
+}

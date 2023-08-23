@@ -1,0 +1,8 @@
+{
+  "name": "macro1",
+  "command": {
+    "key1": ["COMMAND", "TAB"],
+    "key2": ["CONTROL", "SPACE", "RIGHT_ARROW"],
+    "key3": ["CONTROL", "SPACE", "LEFT_ARROW"]
+  }
+}
