@@ -1,0 +1,18 @@
+{
+  "name": "101 101 101 101",
+  "command": {
+    "key7": ["UP_ARROW"],
+    "key3": ["CONTROL", "RIGHT_ARROW"],
+    "key8": ["CONTROL", "LEFT_ARROW"],
+    "key4": ["RIGHT_ARROW"],
+    "key5": ["DOWN_ARROW"],
+    "key6": ["LEFT_ARROW"],
+    "key6key5": ["GUI", "LEFT_ARROW"],
+    "key6key4": ["GUI", "RIGHT_ARROW"],
+    "key6key3": ["GUI", "LEFT_ALT", "I"],
+    "key8key7": ["PLAY_PAUSE"],
+    "key8key3": ["VOLUME_INCREMENT"],
+    "key8key4": ["VOLUME_DECREMENT"],
+    "key8key5": ["SCAN_NEXT_TRACK"]
+  }
+}

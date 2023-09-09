@@ -1,0 +1,37 @@
+{
+  "buttons": [
+     {
+      "name": "key1",
+      "gpo": "GP28"
+    },
+    {
+      "name": "key2",
+      "gpo": "GP17"
+    },
+    {
+      "name": "key3",
+      "gpo": "GP16"
+    },
+    {
+      "name": "key4",
+      "gpo": "GP20"
+    },
+    {
+      "name": "key5",
+      "gpo": "GP10"
+    },
+    {
+      "name": "key6",
+      "gpo": "GP7"
+    },
+    {
+      "name": "key7",
+      "gpo": "GP15"
+    },
+    {
+      "name": "key8",
+      "gpo": "GP12"
+    }
+  ]
+}
+  

@@ -1,0 +1,12 @@
+{
+  "name": "macros 2",
+  "command": {
+    "key8": ["GUI", "TAB"],
+    "key7": ["MUTE"],
+    "key3": ["LEFT_ALT", "TAB"],
+    "key6": ["LEFT_ARROW"],
+    "key5": ["SPACE"],
+    "key4": ["RIGHT_ARROW"],
+    "key4,key3": ["STOP"]
+  }
+}
