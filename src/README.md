@@ -1,4 +1,13 @@
 In order to use macros. 
+
+/src/button.json - for add button name and gpo
+key1 and key2 use to switch macros
+
+
+/src/last_macros.json - include last macros name for reboot save
+
+/src/macros_X.json - include command for button and keyboad
+
 Need to add buttons in buttons.json in /src following the example:
 ```
 {
@@ -21,6 +30,8 @@ Need to add buttons in buttons.json in /src following the example:
 
 Then in the folder command_json/ create 
 or change the macro settings for the buttons following the example
+
+Key1 and Key2 use to switch macros detriment increment  
 ```
 {
    "name": "macro1",
