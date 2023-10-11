@@ -5,6 +5,7 @@ tmp = digitalio.DigitalInOut(board.GP25)
 tmp.direction = digitalio.Direction.OUTPUT
 tmp.value = True
 
+# board gpo
 RP2040GPO = {
     "GP7": board.GP7,
     "GP9": board.GP9,
